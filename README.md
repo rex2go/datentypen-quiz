@@ -1,4 +1,4 @@
-# quiz
+# Crappy vue quiz
 
 ## Project setup
 ```
